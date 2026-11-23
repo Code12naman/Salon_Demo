@@ -1,0 +1,84 @@
+{
+  "core": {
+    "font": {
+      "display": { "value": "Bodoni Moda", "type": "fontFamilies" },
+      "body": { "value": "Manrope", "type": "fontFamilies" }
+    },
+    "weight": {
+      "display": { "value": "500", "type": "fontWeights" },
+      "body": { "value": "400", "type": "fontWeights" },
+      "bodyBold": { "value": "700", "type": "fontWeights" }
+    },
+    "size": {
+      "xs": { "value": "12", "type": "fontSizes" },
+      "sm": { "value": "14", "type": "fontSizes" },
+      "base": { "value": "16", "type": "fontSizes" },
+      "lg": { "value": "18", "type": "fontSizes" },
+      "h3": { "value": "21", "type": "fontSizes" },
+      "h2": { "value": "48", "type": "fontSizes" },
+      "h1": { "value": "83", "type": "fontSizes" }
+    },
+    "lineHeight": {
+      "display": { "value": "110%", "type": "lineHeights" },
+      "body": { "value": "160%", "type": "lineHeights" }
+    },
+    "radius": {
+      "sm": { "value": "12", "type": "borderRadius" },
+      "md": { "value": "18", "type": "borderRadius" },
+      "lg": { "value": "28", "type": "borderRadius" },
+      "pill": { "value": "999", "type": "borderRadius" }
+    },
+    "space": {
+      "1": { "value": "4", "type": "spacing" },
+      "2": { "value": "8", "type": "spacing" },
+      "3": { "value": "12", "type": "spacing" },
+      "4": { "value": "16", "type": "spacing" },
+      "5": { "value": "24", "type": "spacing" },
+      "6": { "value": "32", "type": "spacing" },
+      "7": { "value": "48", "type": "spacing" },
+      "8": { "value": "72", "type": "spacing" },
+      "9": { "value": "104", "type": "spacing" }
+    },
+    "motion": {
+      "fast": { "value": "180", "type": "other", "description": "ms. Micro feedback: chips, toggles, icon swaps" },
+      "base": { "value": "280", "type": "other", "description": "ms. Tab content, accordions, step changes" },
+      "slow": { "value": "700", "type": "other", "description": "ms. Hero entrance and scroll reveals" }
+    }
+  },
+  "light": {
+    "color": {
+      "bg": { "value": "#F8F4F7", "type": "color", "description": "Page background" },
+      "surface": { "value": "#FFFFFF", "type": "color", "description": "Cards" },
+      "surface-2": { "value": "#F1EAF0", "type": "color", "description": "Alternate section background" },
+      "ink": { "value": "#241A2B", "type": "color", "description": "Primary text, dark buttons" },
+      "muted": { "value": "#66596E", "type": "color", "description": "Secondary text" },
+      "line": { "value": "#E3DAE6", "type": "color", "description": "Borders and dividers" },
+      "accent": { "value": "#933A5E", "type": "color", "description": "Brand berry. Primary buttons, links, emphasis" },
+      "accent-ink": { "value": "#FFFFFF", "type": "color", "description": "Text on accent" },
+      "gold": { "value": "#A97E43", "type": "color", "description": "Champagne. Stars, ticks, today marker" },
+      "good": { "value": "#1F7A52", "type": "color" },
+      "warn": { "value": "#9A5B12", "type": "color" },
+      "bad": { "value": "#B3362F", "type": "color" },
+      "panel": { "value": "#EADFE8", "type": "color", "description": "Illustration backdrop" }
+    }
+  },
+  "dark": {
+    "color": {
+      "bg": { "value": "#150F19", "type": "color" },
+      "surface": { "value": "#1F1726", "type": "color" },
+      "surface-2": { "value": "#271D2F", "type": "color" },
+      "ink": { "value": "#F4EDF5", "type": "color" },
+      "muted": { "value": "#ADA0B5", "type": "color" },
+      "line": { "value": "#35293D", "type": "color" },
+      "accent": { "value": "#E98DB0", "type": "color" },
+      "accent-ink": { "value": "#2A0F1C", "type": "color" },
+      "gold": { "value": "#D9B47B", "type": "color" },
+      "good": { "value": "#6FD0A2", "type": "color" },
+      "warn": { "value": "#E6B36A", "type": "color" },
+      "bad": { "value": "#F0867F", "type": "color" },
+      "panel": { "value": "#2C2133", "type": "color" }
+    }
+  },
+  "$themes": [],
+  "$metadata": { "tokenSetOrder": ["core", "light", "dark"] }
+}

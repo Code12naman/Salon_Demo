@@ -1,0 +1,37 @@
+Photography sources and usage
+
+Images were downloaded from Pexels and optimized as local WebP files on 2026-11-23.
+Pexels states its photos are free for commercial use and attribution is not required.
+See https://www.pexels.com/license/ for the current license and restrictions.
+The images are illustrative stock photography, not DORÉE clients, staff, or salon results.
+
+hero-hair.webp — Pexels photo 41062004
+https://www.pexels.com/photo/elegant-black-hair-in-stylish-dubai-interior-41062004/
+gallery-blonde.webp — Pexels photo 41062003
+https://www.pexels.com/photo/blonde-wavy-hair-in-dubai-salon-setting-41062003/
+salon-interior.webp — Pexels photo 7750115
+https://www.pexels.com/photo/photo-of-a-hair-salon-7750115/
+salon-reception.webp — Pexels photo 7195809
+https://www.pexels.com/photo/reception-desk-in-beauty-studio-7195809/
+service-cut.webp — Pexels photo 3992875
+https://www.pexels.com/photo/woman-getting-a-haircut-3992875/
+service-colour.webp — Pexels photo 8468126
+https://www.pexels.com/photo/woman-getting-her-hair-colored-8468126/
+service-treatment.webp — Pexels photo 3993451
+https://www.pexels.com/photo/woman-having-her-hair-rinse-3993451/
+service-bridal.webp — Pexels photo 15507425
+https://www.pexels.com/photo/close-up-shot-of-woman-s-hair-15507425/
+service-mens.webp — Pexels photo 32329615
+https://www.pexels.com/photo/professional-haircut-at-modern-barbershop-32329615/
+gallery-keratin-before.webp — Pexels photo 17328861
+https://www.pexels.com/photo/portrait-of-a-brunette-woman-17328861/
+gallery-keratin-after.webp — Pexels photo 17328862
+https://www.pexels.com/photo/young-woman-sitting-outside-17328862/
+gallery-copper-before.webp — Pexels photo 38651013
+https://www.pexels.com/photo/brunette-with-wavy-hair-in-a-salon-setting-38651013/
+gallery-copper-after.webp — Pexels photo 3356211
+https://www.pexels.com/photo/woman-wearing-black-top-3356211/
+gallery-ash-after.webp — Pexels photo 7440067
+https://www.pexels.com/photo/woman-s-blonde-hair-on-white-background-7440067/
+plan-care.webp — Pexels photo 23349912
+https://www.pexels.com/photo/a-hairdresser-combing-clients-hair-23349912/
